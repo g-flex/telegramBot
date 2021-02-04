@@ -8,7 +8,7 @@ define("CREATOR_TELEGRAM_ID", 000000);
 define("BOT_TOKEN", "something_like_BOT_ID:otherstuff");
 define("API_KEY", "your_api_key");
 
-define("PATH_PROJECT", "/your/project/path");
+define("PATH_PROJECT", "/your/project/path/");
 define("PATH_FUNCTIONS", PATH_PROJECT."functions/");
 define("PATH_APP", PATH_PROJECT."app/");
 define("PATH_TEST", PATH_PROJECT."test/");
