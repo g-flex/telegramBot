@@ -6,7 +6,7 @@ include_once "emoji_constants.php";
 include_once "strings_constants.php";
 
 //set print to true to save input and output in a file
-//set live to true to receive output output in a file
+//set live to true to send output via telegram message to CREATOR_TELEGRAM_ID
 define("DEBUG", false);
 define("PRINT_DEBUG", false);
 define("LIVE_DEBUG", false);
