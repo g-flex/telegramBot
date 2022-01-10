@@ -11,7 +11,6 @@ define("HELP", TITLE."Telegram bot Github repository for php webhook.\n<a href='
 
 define("WELCOME", "This is the welcome message.");
 define("PRIVATE_RESP", TITLE."<b>This is a private chat message.</b>");
-define("TOO_FEW_RESP", EMOJI_ALERT."Too few participants to use respect_points_bot".EMOJI_ALERT);
 
 define("TAG_HTML", "<a href='tg://user?id=[0]'>[1]</a>");
 define("BUTTON_0", ["Top notification".EMOJI_RACE_FLAG, [CBQ_KEY_0=>1]]);
